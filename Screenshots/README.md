@@ -7,13 +7,13 @@ The screenshots provide a visual preview of the dashboard without requiring Powe
 
 ## 🏠 Dashboard Overview
 
-![Dashboard Overview](New-Listing-Dashboard.png)
+![Dashboard Overview](Screenshots/New-Listing-Dashboard.png)
 
 This page provides an overall view of Airbnb performance, including key KPIs, listing trends, property types, hosts, reviews, and other important metrics.
 
 ## ⭐ Ratings Analysis
 
-![Ratings Analysis](Ratings-Dashboard.png)
+![Ratings Analysis](Screenshots/Ratings-Dashboard.png)
 
 This page focuses on customer ratings and satisfaction across different cities and rating categories such as:
 
@@ -25,7 +25,7 @@ This page focuses on customer ratings and satisfaction across different cities a
 
 ## 🌎 Market Analysis
 
-![Market Analysis](MarketShare-Dashboard.png)
+![Market Analysis](Screenshots/MarketShare-Dashboard.png)
 
 This page provides insights into city-level Airbnb market performance, including listing distribution, market share, pricing, and host performance.
 
