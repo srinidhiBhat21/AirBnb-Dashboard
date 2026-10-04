@@ -7,7 +7,7 @@ The screenshots provide a visual preview of the dashboard without requiring Powe
 
 ## 🏠 Dashboard Overview
 
-![Dashboard Overview](New-Listing-Dashboard.png)
+![Dashboard Overview](New- Listing- Dashboard.png)
 
 This page provides an overall view of Airbnb performance, including key KPIs, listing trends, property types, hosts, reviews, and other important metrics.
 
